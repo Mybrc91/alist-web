@@ -63,11 +63,11 @@ const previews: Preview[] = [
     type: ObjType.AUDIO,
     component: lazy(() => import("./audio")),
   },
-  {
-    name: "Ipa",
-    exts: ["ipa", "tipa"],
-    component: lazy(() => import("./ipa")),
-  },
+  // {
+  //   name: "Ipa",
+  //   exts: ["ipa", "tipa"],
+  //   component: lazy(() => import("./ipa")),
+  // },
   {
     name: "Plist",
     exts: ["plist"],
