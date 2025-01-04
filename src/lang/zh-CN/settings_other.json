@@ -1,13 +1,13 @@
 {
   "aria2": "Aria2",
-  "aria2_version": "Aria2 Version:",
-  "set_aria2": "Set aria2",
-  "copy_token": "Copy Token",
+  "aria2_version": "Aria2 版本：",
+  "set_aria2": "设置aria2",
+  "copy_token": "复制令牌",
   "reset_token": "Reset Token",
-  "reset_token_success": "Reset Token Successfully",
-  "unknown_type": "Unknown type",
-  "set_qbit": "Set qBittorrent",
-  "qbittorrent": "qBittorrent",
-  "transmission": "Transmission",
-  "set_transmission": "Set Transmission"
+  "reset_token_success": "重置令牌成功",
+  "unknown_type": "未知类型",
+  "set_qbit": "设置 qBitTorrent",
+  "qbittorrent": "qBitTorrent",
+  "transmission": "传输方式",
+  "set_transmission": "设置传播方式"
 }
